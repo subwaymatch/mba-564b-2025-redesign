@@ -1,0 +1,5 @@
+Invoice Number,Date,Client Name,Item,Quantity,Unit Price
+INV001,2025-04-25,Acme Corp,Widget A,2,25.0
+INV001,2025-04-25,Acme Corp,Widget B,1,40.0
+INV002,2025-04-26,Beta LLC,Gadget A,5,15.0
+INV002,2025-04-26,Beta LLC,Gadget B,2,30.0

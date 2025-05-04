@@ -1,0 +1,10 @@
+Invoice Number,Date,Client Name,Item,Quantity,Unit Price
+INV001,2025-05-01,Acme Corp,Consulting Hour - Strategy,4,150.00
+INV001,2025-05-01,Acme Corp,Report Generation,1,300.00
+INV002,2025-05-02,Beta LLC,Data Analysis Service,10,75.50
+INV002,2025-05-02,Beta LLC,Custom Visualization,2,250.00
+INV003,2025-05-03,Gamma Inc,Software License - Annual,1,1200.00
+INV003,2025-05-03,Gamma Inc,Support Contract,1,400.00
+INV003,2025-05-03,Gamma Inc,Training Session,3,200.00
+INV004,2025-05-04,Acme Corp,Widget Installation,5,50.00
+INV004,2025-05-04,Acme Corp,Travel Expenses,1,125.75
